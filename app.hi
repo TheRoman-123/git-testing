@@ -1,2 +1,2 @@
-Print("Hi!);
-
+Hi!
+System.out.println("Bug fixed!");
